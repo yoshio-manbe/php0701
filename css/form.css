@@ -1,0 +1,35 @@
+
+    .form{
+        width: 800px;
+        margin: 0 auto;
+        font-size: 20px;
+        text-align: center;
+    }
+    .form input{
+        width: 200px;
+        height: 30px;
+        font-size: 20px;
+    }
+    .form textarea{
+        width:300px;
+        height:30px;
+        font-size: 15px;
+        margin-top:20px;
+    }
+    #submit{
+        position: relative;
+        width:100px;
+        font-size: 15px;
+        margin-left: 200px;
+    }
+    #check{
+        position: relative;
+        width:100px;
+        font-size: 15px;
+        margin-top: -50px;
+        margin-left:600px;
+    }
+    #mymap{
+        margin: 0 auto;
+        margin-top: 50px;
+    }
